@@ -1,0 +1,7 @@
+    This is a very good file.
+This is another line. But, I don't like this.
+        welcome on board.
+
+            I love you and will always love youThis is another string.
+ I just got appended. 
+ I just got appended. 

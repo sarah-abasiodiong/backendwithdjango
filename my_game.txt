@@ -1,0 +1,1 @@
+{'sirdesmond': {'password': 'qwertuiop', 'high_score': 6}, 'sarah': {'password': 'password', 'high_score': 0}}
